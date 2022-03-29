@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Reza Nur Rochmat. You can call me Reja</h1>
+<h1 align="center">Hi folks 👋, I'm Reza Nur Rochmat. You can call me Reja</h1>
 <h3 align="center">A passionate software developer from Yogyakarta Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rezanurrochmat13&label=Profile%20views&color=0e75b6&style=flat" alt="RezaNurRochmat13" /> </p>
