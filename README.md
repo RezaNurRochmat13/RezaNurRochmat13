@@ -1,19 +1,19 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Reja</h1>
-<h3 align="center">A passionate software developer from indonesia</h3>
+<h1 align="center">Hi 👋, I'm Reza Nur Rochmat. You can call me Reja</h1>
+<h3 align="center">A passionate software developer from Yogyakarta Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rezanurrochmat13&label=Profile%20views&color=0e75b6&style=flat" alt="rezanurrochmat13" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rezanurrochmat13&label=Profile%20views&color=0e75b6&style=flat" alt="RezaNurRochmat13" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rezanurrochmat13" alt="rezanurrochmat13" /></a> </p>
 
-- 🔭 I’m currently working on **educational systems**
+- 🔭 I’m currently working on **Web programming**
 
-- 🌱 I’m currently learning **Spring Boot, Docker, Jenkins, GitLab, Git, Postgres, Redis, MongoDB**
+- 🌱 I’m currently learning **Spring Boot, JPA, Hibernate, Docker, Jenkins, GitLab, Git, Postgres, Redis, MongoDB**
 
 - 📫 How to reach me **rezanurrochmat@gmail.com**
 
-- ⚡ Fun fact **Good sense of humors**
+- ⚡ Fun fact **Good sense of humors :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
