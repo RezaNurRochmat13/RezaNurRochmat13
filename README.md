@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rezanurrochmat13" alt="rezanurrochmat13" /></a> </p>
 
-- 🔭 I’m currently working on **Web programming**
+- 🔭 I’m currently working on **Web programming, Long life learner**
 
 - 🌱 I’m currently learning **Spring Boot, JPA, Hibernate, Docker, Jenkins, GitLab, Git, Postgres, Redis, MongoDB**
 
