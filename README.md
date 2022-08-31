@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Web programming, Long life learner**
 
-- 🌱 I’m currently learning **Spring Boot, JPA, Hibernate, Docker, Jenkins, GitLab, Git, Postgres, Redis, MongoDB**
+- 🌱 I’m currently learning **Spring Boot, JPA, Hibernate, Docker, Jenkins, GitLab, Git, Postgres, Redis, MongoDB, Actuator, Eureka, Apache Kafka**
 
 - 📫 How to reach me **rezanurrochmat@gmail.com**
 
